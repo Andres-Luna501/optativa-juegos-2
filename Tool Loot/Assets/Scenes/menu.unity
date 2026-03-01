@@ -154,7 +154,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.2862963, y: 0.05785416}
   m_AnchorMax: {x: 0.2862963, y: 0.05785416}
-  m_AnchoredPosition: {x: 5, y: 1.7199707}
+  m_AnchoredPosition: {x: 0, y: 1.7182617}
   m_SizeDelta: {x: 152.08868, y: 146.69269}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &231597893
@@ -634,7 +634,7 @@ GameObject:
   - component: {fileID: 763089413}
   - component: {fileID: 763089412}
   m_Layer: 5
-  m_Name: Button1
+  m_Name: Nivel1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -656,7 +656,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.3833542}
   m_AnchorMax: {x: 0.5, y: 0.3833542}
-  m_AnchoredPosition: {x: -20.271, y: -31}
+  m_AnchoredPosition: {x: -20.271, y: -46}
   m_SizeDelta: {x: 563.1465, y: 467.7603}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &763089412
@@ -703,16 +703,16 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 759065917}
-        m_TargetAssemblyTypeName: AbriInicio, Assembly-CSharp
-        m_MethodName: AbrirURL
+      - m_Target: {fileID: 768818801}
+        m_TargetAssemblyTypeName: SceneController, Assembly-CSharp
+        m_MethodName: CargarEscena
         m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: https://blog.febucci.com/2018/10/unity-ui-tutorial/
+          m_StringArgument: nivel1
           m_BoolArgument: 0
         m_CallState: 1
 --- !u!114 &763089413
@@ -753,6 +753,50 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 763089410}
   m_CullTransparentMesh: 1
+--- !u!1 &768818800
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 768818802}
+  - component: {fileID: 768818801}
+  m_Layer: 0
+  m_Name: NivelManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &768818801
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 768818800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5b7fa0fa8b278e4fbaa78cab02e8624, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SceneController
+--- !u!4 &768818802
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 768818800}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 212.28201, y: 884.4741, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &816394494
 GameObject:
   m_ObjectHideFlags: 0
@@ -893,7 +937,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.115, y: 0.05785416}
   m_AnchorMax: {x: 0.115, y: 0.05785416}
-  m_AnchoredPosition: {x: -6.354126, y: 1.7182617}
+  m_AnchoredPosition: {x: -6.354126, y: 1.7165527}
   m_SizeDelta: {x: 158.0794, y: 146.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1412179643
@@ -1024,7 +1068,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000015259, y: 380.82}
+  m_AnchoredPosition: {x: -20.271, y: 380.82}
   m_SizeDelta: {x: 809.6989, y: 761.6463}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1993320044
@@ -1074,3 +1118,4 @@ SceneRoots:
   - {fileID: 816394498}
   - {fileID: 272183342}
   - {fileID: 759065916}
+  - {fileID: 768818802}

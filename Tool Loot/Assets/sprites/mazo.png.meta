@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 8f5c38feb7affdc4e883ef74ecd3b6d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6515193852762316984
+    second: mazo_0
+  - first:
+      213: -5896950337898050861
+    second: mazo_1
+  - first:
+      213: 7586537763557096309
+    second: mazo_2
+  - first:
+      213: -9084565171887056788
+    second: mazo_3
+  - first:
+      213: 8650751140847358321
+    second: mazo_4
+  - first:
+      213: -7134563250016265836
+    second: mazo_5
+  - first:
+      213: 8576011529618054976
+    second: mazo_6
+  - first:
+      213: 6346947490653264134
+    second: mazo_7
+  - first:
+      213: -2239325336881646417
+    second: mazo_8
+  - first:
+      213: -2299930316601127198
+    second: mazo_9
+  - first:
+      213: 59710405690786377
+    second: mazo_10
+  - first:
+      213: -5722624819480671959
+    second: mazo_11
+  - first:
+      213: 5143811390716864035
+    second: mazo_12
+  - first:
+      213: 8474771845860405222
+    second: mazo_13
+  - first:
+      213: -1571461656446445116
+    second: mazo_14
+  - first:
+      213: 5125414131046450208
+    second: mazo_15
+  - first:
+      213: -1612382173576825997
+    second: mazo_16
+  - first:
+      213: -7013762374534139710
+    second: mazo_17
+  - first:
+      213: 7219349282258605225
+    second: mazo_18
+  - first:
+      213: -1028153900803785202
+    second: mazo_19
+  - first:
+      213: 6055019177594296792
+    second: mazo_20
+  - first:
+      213: 6627248810335428541
+    second: mazo_21
+  - first:
+      213: -3449472225400980176
+    second: mazo_22
+  - first:
+      213: 2201721660299711018
+    second: mazo_23
+  - first:
+      213: 1340571488908752982
+    second: mazo_24
+  - first:
+      213: -3638814944654237269
+    second: mazo_25
+  - first:
+      213: -5311417699937517128
+    second: mazo_26
+  - first:
+      213: -8362661380958369122
+    second: mazo_27
+  - first:
+      213: -1449357875457831743
+    second: mazo_28
+  - first:
+      213: -6095093030699303327
+    second: mazo_29
+  - first:
+      213: -1766015972227797749
+    second: mazo_30
+  - first:
+      213: -5419572452800436325
+    second: mazo_31
+  - first:
+      213: -3577995907869698932
+    second: mazo_32
+  - first:
+      213: -1504833707652024623
+    second: mazo_33
+  - first:
+      213: -4060102910268912784
+    second: mazo_34
+  - first:
+      213: -8062334410882692804
+    second: mazo_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mazo_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 544
+        width: 302
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0e4b44a4e9a6a50800000000000000
+      internalID: 6515193852762316984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mazo_1
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 545
+        width: 373
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da877b39e2d92ea0800000000000000
+      internalID: -5896950337898050861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mazo_2
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 540
+        width: 295
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b38e796ebc84960800000000000000
+      internalID: 7586537763557096309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mazo_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6859c6bb142de180800000000000000
+      internalID: -9084565171887056788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mazo_4
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 132
+        width: 492
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17113863454ad0870800000000000000
+      internalID: 8650751140847358321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mazo_5
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 0
+        width: 418
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499593f4680fcfc90800000000000000
+      internalID: -7134563250016265836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9d8c2a612790c0d4597cbf2d937468e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":2.0},"gridSpriteSize":{"x":512.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mazo_0: 6515193852762316984
+      mazo_1: -5896950337898050861
+      mazo_2: 7586537763557096309
+      mazo_3: -9084565171887056788
+      mazo_4: 8650751140847358321
+      mazo_5: -7134563250016265836
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
