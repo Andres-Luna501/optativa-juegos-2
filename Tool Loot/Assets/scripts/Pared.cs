@@ -11,15 +11,15 @@ public class Pared : MonoBehaviour
         animator = GetComponent<Animator>();
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+   private void OnCollisionEnter2D(Collision2D collision)
+{
+    if (!destruida && collision.gameObject.CompareTag("Player"))
     {
-        if (!destruida && collision.CompareTag("Player"))
-        {
-            destruida = true;
+        destruida = true;
 
-            animator.SetTrigger("romper");
+        animator.SetTrigger("romper");
 
-            Destroy(gameObject, 1f);
-        }
+        Destroy(gameObject, 1f);
     }
+}
 }
