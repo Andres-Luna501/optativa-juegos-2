@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: 8ddde48a652dcd54ba06d5d867d662b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6419689809357483361
+    second: monedas_0
+  - first:
+      213: 5354814600414112100
+    second: monedas_1
+  - first:
+      213: -8816830666383720433
+    second: monedas_2
+  - first:
+      213: 8012092534222830361
+    second: monedas_3
+  - first:
+      213: 4452852802515461639
+    second: monedas_4
+  - first:
+      213: -5420824253685159245
+    second: monedas_5
+  - first:
+      213: -335512792226151565
+    second: monedas_6
+  - first:
+      213: 529287198125603606
+    second: monedas_7
+  - first:
+      213: -4949118443947848212
+    second: monedas_8
+  - first:
+      213: 5073339472930801946
+    second: monedas_9
+  - first:
+      213: -6354164826465810840
+    second: monedas_10
+  - first:
+      213: 6916718000387972498
+    second: monedas_11
+  - first:
+      213: 1550231872939220770
+    second: monedas_12
+  - first:
+      213: -7483331576114201223
+    second: monedas_13
+  - first:
+      213: -3970859119512926716
+    second: monedas_14
+  - first:
+      213: 9080204240902737816
+    second: monedas_15
+  - first:
+      213: 5449767071627020640
+    second: monedas_16
+  - first:
+      213: -4101805666208696997
+    second: monedas_17
+  - first:
+      213: 699745939406248282
+    second: monedas_18
+  - first:
+      213: -2604383378607111730
+    second: monedas_19
+  - first:
+      213: 9024679651397735108
+    second: monedas_20
+  - first:
+      213: 2746890850960384718
+    second: monedas_21
+  - first:
+      213: -5032224108625588979
+    second: monedas_22
+  - first:
+      213: 635590765825557345
+    second: monedas_23
+  - first:
+      213: 2515311093468399208
+    second: monedas_24
+  - first:
+      213: 1150435497988283466
+    second: monedas_25
+  - first:
+      213: -6387333563733883351
+    second: monedas_26
+  - first:
+      213: 6216998538422665716
+    second: monedas_27
+  - first:
+      213: -3563464310175157825
+    second: monedas_28
+  - first:
+      213: -3515510179422772679
+    second: monedas_29
+  - first:
+      213: -742490888728567763
+    second: monedas_30
+  - first:
+      213: 8375307742961206081
+    second: monedas_31
+  - first:
+      213: 7575829613610399056
+    second: monedas_32
+  - first:
+      213: -7339806056155790022
+    second: monedas_33
+  - first:
+      213: -1610993146932530768
+    second: monedas_34
+  - first:
+      213: 5474838719896006053
+    second: monedas_35
+  - first:
+      213: 822472546549969141
+    second: monedas_36
+  - first:
+      213: 3506143206476174896
+    second: monedas_37
+  - first:
+      213: 8149854705584811745
+    second: monedas_38
+  - first:
+      213: -9147267632013751980
+    second: monedas_39
+  - first:
+      213: -2770340497714931553
+    second: monedas_40
+  - first:
+      213: 3810687368834528538
+    second: monedas_41
+  - first:
+      213: 7420765781756389784
+    second: monedas_42
+  - first:
+      213: -1980235745836934492
+    second: monedas_43
+  - first:
+      213: 5114428288429736329
+    second: monedas_44
+  - first:
+      213: 8205704352274009041
+    second: monedas_45
+  - first:
+      213: 6345590448534387912
+    second: monedas_46
+  - first:
+      213: -360294998066717144
+    second: monedas_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monedas_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 283
+        width: 136
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16da2fe5ed1571950800000000000000
+      internalID: 6419689809357483361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monedas_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 284
+        width: 123
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46922cf028f105a40800000000000000
+      internalID: 5354814600414112100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monedas_2
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 287
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f008d65f83354a580800000000000000
+      internalID: -8816830666383720433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 40a173bd8bc099e49b6b9ae4e7514293
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":1.0},"gridSpriteSize":{"x":512.0,"y":1024.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      monedas_0: 6419689809357483361
+      monedas_1: 5354814600414112100
+      monedas_2: -8816830666383720433
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class Pared : MonoBehaviour
 {
+    [SerializeField] private float cantidadPuntos;
+
     private Animator animator;
     private bool destruida = false;
 
@@ -31,9 +33,12 @@ public class Pared : MonoBehaviour
         if (!destruida && collision.gameObject.CompareTag("Player"))
         {
             destruida = true;
+            GetComponent<Collider2D>().enabled = false;
             speed = 0f;
 
             animator.SetTrigger("romper");
+
+            Puntaje.instancia.SumarPuntos(cantidadPuntos);
 
             Destroy(gameObject, 1f);
         }

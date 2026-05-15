@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "548032115564",
+    "firebase_url": "https://tool-loop-default-rtdb.firebaseio.com",
+    "project_id": "tool-loop",
+    "storage_bucket": "tool-loop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548032115564:android:f7b1bbb4d31272dfc0f949",
+        "android_client_info": {
+          "package_name": "com.company.toolloot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnKQ5xdmQrjIXfpu3vYrG9nLC5BJ8oKm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
